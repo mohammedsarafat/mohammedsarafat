@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="[www.linkedin.com/in/mohammed-sarafat/](https://www.linkedin.com/in/mohammed-sarafat/)">
+  <a href="https://www.linkedin.com/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   &nbsp;&nbsp;
